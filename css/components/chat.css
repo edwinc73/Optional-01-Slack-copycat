@@ -1,0 +1,21 @@
+.chat-container{
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.chat-title{
+  padding-bottom: 10px;
+}
+
+.chat-container i{
+  font-size: 20px;
+}
+
+.chat-container h3{
+  margin: 0px 0px 0px 8px;
+}
+
+.chat-container .form-control{
+  margin-bottom: 5px;
+}

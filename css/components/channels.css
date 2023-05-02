@@ -1,0 +1,15 @@
+.channel-container{
+  width: 200px;
+  height: 100vh;
+  background-color: #4B3949;
+  padding: 15px;
+  color: white;
+}
+
+.channel-inactive{
+  opacity: 0.5;
+}
+
+.channel h2{
+  margin-bottom: 8px;
+}
